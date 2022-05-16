@@ -1,4 +1,4 @@
-Official implementation of [Lung Nodule Classification using Deep Local-Global Networks](https://arxiv.org/abs/1904.10126) using PyTorch 
+
 ## Install pre-requested libraries
 - PyTorch 1.0
 - Sklearn
